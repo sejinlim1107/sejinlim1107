@@ -3,7 +3,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=sejinlim1107&show_icons=true&hide_border=true)](https://github.com/sejinlim1107)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejinlim1107&layout=compact)](https://github.com/sejinlim1107)
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<a href="https://github.com/sejinlim1107" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <!--
 **sejinlim1107/sejinlim1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
