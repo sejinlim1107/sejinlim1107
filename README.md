@@ -1,13 +1,9 @@
 ### 안녕하세요 개발자 임세진 입니다! 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=shinplest&show_icons=true&hide_border=true)](https://github.com/sejinlim1107)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinplest&layout=compact)](https://github.com/sejinlim1107)
+[![github stats](https://github-readme-stats.vercel.app/api?username=sejinlim1107&show_icons=true&hide_border=true)](https://github.com/sejinlim1107)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejinlim1107&layout=compact)](https://github.com/sejinlim1107)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
 
 <!--
 **sejinlim1107/sejinlim1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
